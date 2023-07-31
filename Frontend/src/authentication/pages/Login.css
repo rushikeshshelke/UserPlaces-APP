@@ -1,0 +1,30 @@
+.authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+
+  .signup {
+    width: 90%;
+    max-width: 25rem;
+    text-align: center;
+  }
+
+  .signup__header {
+    color: white;
+    text-align: center;
+  }
+
+  .signup form {
+    margin-bottom: 1rem;
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+  }
